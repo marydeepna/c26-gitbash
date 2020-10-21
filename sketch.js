@@ -23,7 +23,7 @@ object4.shapeColor = "green";
 }
 
 function draw() {
-  background(0,0,0);  
+  background("blue");  
   movingRect.x = World.mouseX;
   movingRect.y = World.mouseY;
 
